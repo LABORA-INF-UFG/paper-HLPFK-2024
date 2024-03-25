@@ -1,0 +1,1 @@
+Diretório para inclusão de scripts do Modelo de Transmissão e Quebra de Presença
