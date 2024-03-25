@@ -1,4 +1,4 @@
-# paper_HLPFK_2024
+# Otimização da associação entre estações base e equipamentos de usuário com auxílio de Aprendizado Federado para suporte a Realidade Aumentada Móvel
 Repositório referente ao artigo "Otimização da associação entre estações base e equipamentos de usuário com auxílio de Aprendizado Federado para suporte a Realidade Aumentada Móvel" publicado no SBRC 2024
 
 # Como citar
