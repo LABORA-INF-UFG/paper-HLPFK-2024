@@ -2,8 +2,23 @@
 Repositório referente ao artigo "Otimização da associação entre estações base e equipamentos de usuário com auxílio de Aprendizado Federado para suporte a Realidade Aumentada Móvel" publicado no SBRC 2024
 
 # Como citar
-Caso o conteúdo auxilie em sua pesquisa considere citar o artigo: ?
-
+Caso o conteúdo auxilie em sua pesquisa, considere citar o artigo:
+```
+@inproceedings{sbrc_hlpfk_2024,
+	author = {Hudson de P. Romualdo e Luciano de S. Fraga e Paulo F. da Conceição e Flávio Geraldo C. Rocha e Kleber V. Cardoso},
+	title = {Otimização da associação entre estações base e equipamentos de usuário com auxílio de Aprendizado Federado para suporte a Realidade Aumentada Móvel},
+	booktitle = {Anais do XLII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos},
+	location = {Niterói/RJ},
+	year = {2024},
+	keywords = {5G, 6G, QoE, Aprendizado de Máquina, Realiade Aumentada},
+	issn = {?},
+	pages = {?},
+	publisher = {SBC},
+	address = {Niterói, RJ, Brasil},
+	doi = {?},
+	url = {?}
+}
+```
 # Sobre o conteúdo
 
 ## Aprendizado_Federado
